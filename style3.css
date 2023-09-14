@@ -1,0 +1,39 @@
+#buttons-three  {
+    background-color:aquamarine; 
+    color: #fff; 
+    padding: 10px 20px; 
+    border: none;
+    cursor: pointer; 
+}
+.one{
+    background-color:rgba(122, 128, 0, 0.56); 
+    color: #fff;
+}
+.two{
+    background-color: rgb(255, 192, 240); 
+    color: #fff;
+}
+.three{
+    background-color:rgb(106, 100, 100); 
+    color: #fff;
+}
+.four{
+    background-color: rgb(12, 4, 26); 
+    color: #fff;
+}
+.five{
+    background-color: yellow; 
+    color: #fff;
+}
+.six{
+    background-color: rgb(77, 53, 123); 
+    color: #fff;
+}
+.seven{
+    background-color: rgba(68, 201, 198, 0.178); 
+    color: #fff;
+}
+.eight{
+    background-color: rgb(23, 158, 107); 
+    color: #fff;
+}

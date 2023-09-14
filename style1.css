@@ -1,0 +1,39 @@
+#buttons-one  {
+    background-color: purple; 
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer; 
+}
+.one{
+    background-color: skyblue; 
+    color: #fff;
+}
+.two{
+    background-color: skyblue; 
+    color: #fff;
+}
+.three{
+    background-color: skyblue; 
+    color: #fff;
+}
+.four{
+    background-color: skyblue; 
+    color: #fff;
+}
+.five{
+    background-color: yellow; 
+    color: #fff;
+}
+.six{
+    background-color: yellow; 
+    color: #fff;
+}
+.seven{
+    background-color: yellow; 
+    color: #fff;
+}
+.eight{
+    background-color: yellow; 
+    color: #fff;
+}
