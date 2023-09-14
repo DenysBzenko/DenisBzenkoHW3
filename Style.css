@@ -16,20 +16,20 @@ header {
     background-color: #fff;
     color: #0b0b0b;
     padding: 10px 0;
-    display: flex; /* Change from inline to flex to allow proper alignment of nav and other items */
+    display: flex; 
     justify-content: space-between;
     align-items: center;
 }
 
 nav ul {
-    list-style-type: none; /* Remove bullets */
-    margin: 0; /* Remove margins */
-    padding: 0; /* Remove padding */
+    list-style-type: none; 
+    margin: 0; 
+    padding: 0; 
 }
 
 nav ul li {
-    margin: 0; /* Remove margins from list items */
-    padding: 0; /* Remove padding from list items */
+    margin: 0;
+    padding: 0;
 }
 
 .About,
@@ -97,14 +97,12 @@ nav ul li {
     color: #3498db;
     padding: 10px 20px;
     border: 2px solid #3498db;
-    border-radius: 20px; /* Збільшуємо радіус кутів */
+    border-radius: 20px; 
     cursor: pointer;
     margin: 10px;
     position: relative;
     overflow: hidden;
 }
-
-
 
 .header-button:hover {
     color: blue; 
@@ -156,7 +154,6 @@ body::after {
     padding: 20px;
     color:white; 
 }
-
 
 .last {
     background-color: #f0f0f0;
@@ -219,6 +216,9 @@ body::after {
 .Form {
     margin-top: 20px;
     
+}
+.minilogo{
+    width: 40px;
 }
 
 .Form input {
